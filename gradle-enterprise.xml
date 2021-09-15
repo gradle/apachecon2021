@@ -1,0 +1,16 @@
+<gradleEnterprise>
+    <server>
+        <url>https://events.gradle.com/</url>
+    </server>
+    <buildCache>
+        <remote>
+            <storeEnabled>false</storeEnabled>
+            <server>
+                <credentials>
+                    <username>apachecon2021</username>
+                    <password>ap4c#e474c43!</password>
+                </credentials>
+            </server>
+        </remote>
+    </buildCache>
+</gradleEnterprise>
