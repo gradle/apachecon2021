@@ -12,7 +12,9 @@ Feel free to participate as many times as you want, but, once you've won a singl
 
 ### Step 1
 
-Start with the Maven project of your choice.  If you'd rather not use a real project that you are working on, feel free to clone an open source one!  Note that project details such as dependencies, console logs, and failure messages will be captured during the scan. Here are some suggestions, but any Maven project will do:
+Start with the Maven project of your choice.  If you'd rather not use a real project that you are working on, feel free to clone an open source one!  Note that project details such as dependencies, console logs, and failure messages will be captured during the scan. Here's everything that the scan will pick up:  (https://docs.gradle.com/enterprise/gradle-plugin/#captured_information)
+
+Here are some alternatives, but remember any Maven project will do!
 
 - Maven Multi-Module Example (https://github.com/jitpack/maven-modular)
 - Spring Boot Apache Camel Archetype:
