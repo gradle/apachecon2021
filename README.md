@@ -67,17 +67,17 @@ Create a configuration file for the plugin.  This file contains temporary creden
 ```
 <gradleEnterprise>
     <server>
-      <url>https://events.gradle.com/</url>
+        <url>https://events.gradle.com/</url>
     </server>
     <buildCache>
         <remote>
             <storeEnabled>false</storeEnabled>
-                <server>
-                    <credentials>
-                        <username>apachecon2021</username>
-                        <password>ap4c#e474c43!</password>
-                    </credentials>
-                </server>
+            <server>
+                <credentials>
+                    <username>apachecon2021</username>
+                    <password>ap4c#e474c43!</password>
+                </credentials>
+            </server>
         </remote>
     </buildCache>
 </gradleEnterprise>
@@ -109,6 +109,6 @@ The second will run the same build again, but will pull reusable entries from th
 
 ### Step 6
 
-Take a screenshot of your scan with the Avoidance savings percentage showing and post it to our HopIn channel in our virtual booth, or in the #sponsor-gradle channel in the ApacheCon Slack.  An hour after the contest begins, the participant with the highest Avoidance savings will win!
+Take a screenshot of your scan with the Avoidance savings percentage showing and post it to our HopIn channel in our virtual booth, or in the **#sponsor-gradle** (https://apachecon.slack.com/archives/C02EVP12THA) channel in the ApacheCon Slack.  An hour after the contest begins, the participant with the highest Avoidance savings will win!
 
 Winners will be contacted via the HopIn platform to arrange shipping of prizes.
