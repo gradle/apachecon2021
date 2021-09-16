@@ -12,7 +12,7 @@ Feel free to participate as many times as you want, but, once you've won a singl
 
 ### Step 1
 
-Start with the Maven project of your choice.  If you'd rather not use a real project that you are working on, feel free to clone an open source one!  Here are some suggestions, but any Maven project will do:
+Start with the Maven project of your choice.  If you'd rather not use a real project that you are working on, feel free to clone an open source one!  Note that project details such as dependencies, console logs, and failure messages will be captured during the scan. Here are some suggestions, but any Maven project will do:
 
 - Maven Multi-Module Example (https://github.com/jitpack/maven-modular)
 - Spring Boot Apache Camel Archetype:
@@ -109,6 +109,7 @@ The second will run the same build again, but will pull reusable entries from th
 
 ### Step 6
 
-Take a screenshot of your scan with the Avoidance savings percentage showing and post it to our HopIn channel in our virtual booth, or in the **#sponsor-gradle** (https://apachecon.slack.com/archives/C02EVP12THA) channel in the ApacheCon Slack.  An hour after the contest begins, the participant with the highest Avoidance savings will win!
+Take a screenshot of your scan with the Avoidance savings percentage showing and post it to our **#sponsor-gradle** (https://apachecon.slack.com/archives/C02EVP12THA) channel in the ApacheCon Slack.  If you'd rather not post to the slack, you can also email the screenshot to us at: 
+>training-team@gradle.com  
 
-Winners will be contacted via the HopIn platform to arrange shipping of prizes.
+An hour after the contest begins, the participant with the highest Avoidance savings will win!  Winners will be contacted via the HopIn platform to arrange shipping of prizes.
